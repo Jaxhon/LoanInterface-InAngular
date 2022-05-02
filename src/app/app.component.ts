@@ -1,7 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-//import { bootstrap } from '@angular/platform-browser-dynamic';
-//import { debug } from 'console';
-//import * as lan from './src/app/lan.json';
+
 import data from '../assets/json/lan.json';
 
 interface lanetaker {
